@@ -25,4 +25,8 @@
              (autoencoder.get_layer "encoder_lstm") ;;=> <keras.layers.wrappers.Bidirectional object at 0x7f43c7ff5dd8>
              ))
 
+;; 网络->结构, 损失函数和优化函数
+
+;; 训练自动编码器
+
 ```
